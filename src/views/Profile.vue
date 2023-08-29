@@ -4,7 +4,7 @@
   <center>
     <div class="m-10 max-w-sm">
       <div class="rounded-lg border bg-white px-4 pt-8 pb-10 shadow-lg">
-        <div class="relative w-40 h-40 overflow-hidden bg-gray-100 rounded-full dark:bg-gray-600">
+        <div class="relative w-40 h-40 overflow-hidden bg-gray-100 rounde/d-full dark:bg-gray-600">
           <svg class="absolute-center w-40 h-40 text-gray-400 -left-1" fill="currentColor" viewBox="0 0 20 20" xmlns="">
             <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"></path>
           </svg>
